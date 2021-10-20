@@ -6,3 +6,4 @@ adding more line to reading
 line 5
 line 6
 line edwin
+line 7
